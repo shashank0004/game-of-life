@@ -501,7 +501,7 @@
     </profiles>
     <distributionManagement>
           <repository>
-            <id>releases</id>
+            <id>nexus</id>
             <url>http://40.113.233.191:8080/nexus-latest/content/repositories/releases</url>
           </repository>
           <snapshotRepository>
